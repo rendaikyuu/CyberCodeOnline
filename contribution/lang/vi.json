@@ -4035,7 +4035,7 @@
  	 	 	 	"eng": "Unofficial translation"
  	 	 	},
  	 	 	"description1": {
- 	 	 	 	"trans": "Vì trò chơi này chỉ được thực hiện bởi một người, nó rất khó dịch tất cả các ngôn ngữ một cách chính xác, nhưng tôi đang làm việc để thêm nhiều bản dịch hơn :)",
+ 	 	 	 	"trans": "Vì trò chơi này chỉ được thực hiện bởi một người nên rất khó để dịch tất cả ngôn ngữ một cách chính xác, nhưng tôi đang cố gắng để cung cấp những bản dịch hoàn chỉnh hơn :)",
  	 	 	 	"eng": "As this game is made by only one person, it's very difficult translate all languages correctly, but I am working on adding more translations :)"
  	 	 	},
  	 	 	"description": {
@@ -4899,7 +4899,7 @@
  	},
  	"itemTrait": {
  	 	"stun": {
- 	 	 	"trans": "của tuyệt đẹp",
+ 	 	 	"trans": "gây choáng",
  	 	 	"eng": "of Stunning"
  	 	},
  	 	"bargain": {
@@ -4915,11 +4915,11 @@
  	 	 	"eng": "of Health"
  	 	},
  	 	"healthRegen": {
- 	 	 	"trans": "của cuộc sống",
+ 	 	 	"trans": "của sinh mệnh",
  	 	 	"eng": "of Life"
  	 	},
  	 	"maxShield": {
- 	 	 	"trans": "của che chắn",
+ 	 	 	"trans": "của khiên",
  	 	 	"eng": "of Shielding"
  	 	},
  	 	"sneaky": {
@@ -4927,7 +4927,7 @@
  	 	 	"eng": "of Sneaking"
  	 	},
  	 	"evade": {
- 	 	 	"trans": "của trốn tránh",
+ 	 	 	"trans": "của né đòn",
  	 	 	"eng": "of Evasion"
  	 	},
  	 	"pocketed": {
@@ -4939,11 +4939,11 @@
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalChanceWeapon": {
- 	 	 	"trans": "của CRIT cơ hội",
+ 	 	 	"trans": "của khả năng trí mạng",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalDamageArmor": {
- 	 	 	"trans": "thiệt hại crit",
+ 	 	 	"trans": "của sự tàn bạobạo",
  	 	 	"eng": "of Brutality"
  	 	},
  	 	"healingMultiplier": {
@@ -4951,7 +4951,7 @@
  	 	 	"eng": "of Healing"
  	 	},
  	 	"criticalDamageWeapon": {
- 	 	 	"trans": "thiệt hại crit",
+ 	 	 	"trans": "sát thương trí mạng",
  	 	 	"eng": "of Crit Damage"
  	 	},
  	 	"upgradeHealth": {
@@ -4959,11 +4959,11 @@
  	 	 	"eng": "of Health"
  	 	},
  	 	"upgradeDamage": {
- 	 	 	"trans": "về thiệt hại",
+ 	 	 	"trans": "về sát thương",
  	 	 	"eng": "of Damage"
  	 	},
  	 	"upgradeShield": {
- 	 	 	"trans": "của Shield",
+ 	 	 	"trans": khiênkhiên",
  	 	 	"eng": "of Shield"
  	 	},
  	 	"upgradeSneaky": {
@@ -4971,23 +4971,23 @@
  	 	 	"eng": "of Sneaking"
  	 	},
  	 	"upgradeHealthRegen": {
- 	 	 	"trans": "của cuộc sống",
+ 	 	 	"trans": "của sinh mệnh",
  	 	 	"eng": "of Life"
  	 	},
  	 	"upgradeStun": {
- 	 	 	"trans": "của stun",
+ 	 	 	"trans": "của gây choáng",
  	 	 	"eng": "of Stun"
  	 	},
  	 	"upgradeCriticalChance": {
- 	 	 	"trans": "của CRIT cơ hội",
+ 	 	 	"trans": "của tỉ lệ trí mạng",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"upgradeCriticalDamage": {
- 	 	 	"trans": "thiệt hại crit",
+ 	 	 	"trans": "sát thương trí mạng",
  	 	 	"eng": "of Crit Damage"
  	 	},
  	 	"upgradeEvade": {
- 	 	 	"trans": "của sự trốn tránh",
+ 	 	 	"trans": "của sự né tránhtránh",
  	 	 	"eng": "of Evade"
  	 	},
  	 	"upgradePocketed": {
